@@ -1,0 +1,28 @@
+.centrado{
+    display: flex;
+    position: relative;
+    justify-content: center;
+  }
+.abou {
+   display: flex; 
+   flex-direction: column;
+   position: relative;
+   align-items: center;
+    margin-top: 4%;
+    width: 20rem; 
+    box-shadow: inset 0 0 10px #000000;
+    -moz-box-shadow: inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+
+    border-radius: 7px;
+    padding: 10px 20px 20px ;
+    border: #c4c0c0 solid 1px;
+
+  }
+
+  .texto {
+    background: -webkit-linear-gradient(rgb(68 182 201 / 50%),rgb(59 80 80));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: rgb(15, 15, 14);  
+  }

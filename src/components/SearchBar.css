@@ -1,0 +1,48 @@
+.contenedor input{
+    background-color: rgba(0, 0, 0, 0.116);
+    border: none;
+}
+.btn{
+    background: black;
+    border: none;
+    color: white;
+}
+
+/* 
+
+.searchBar {
+    width: fit-content;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    border-radius: 1.25rem;
+    border: 1px solid var(--border-color);
+    padding: 0.25rem;
+}
+
+.input::placeholder{
+    color: white;
+}
+
+.input:focus{
+    outline:none
+}
+
+.submit{
+    border-radius: 9999px;
+    border: solid 1px var(--border-color);
+    background-color: #ffffff00;
+    color: white;
+    width: 1.75rem;
+    height: 1.75rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0.25;
+}
+
+.icon{
+    color: white;
+    font-size: 1rem;
+    margin-left: 0.5rem;
+} */
